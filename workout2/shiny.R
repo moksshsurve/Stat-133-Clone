@@ -52,6 +52,7 @@ ui <- fluidPage(
       column
       (12,
       # Show a plot of the relative frequencies
+        h4("Timelines"),
         plotOutput("investment_plot")
       )
     ),

@@ -1,0 +1,12 @@
+name: workout2
+title: workout2
+username:
+account: mokssh-surve
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 874408
+bundleId: 2020567
+url: https://mokssh-surve.shinyapps.io/workout2/
+when: 1555569241.21191
+asMultiple: FALSE
+asStatic: FALSE
