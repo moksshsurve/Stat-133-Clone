@@ -88,4 +88,8 @@ summary(bin1)
 #> - mode: 3 
 #> - skewness: 0.276026223736942 
 #> - kurtosis: -0.123809523809524
+
+#The finding of the skewness statistic of a a binomial random variable
+bin_skewness(10, 0.3)
+#> [1] 0.2760262
 ```
